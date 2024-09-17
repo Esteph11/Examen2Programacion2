@@ -8,6 +8,7 @@
 
     <ScrollView>
         <StackLayout Padding="20">
+            <VerticalStackLayout Padding="15,0,15,0" Spacing="10">
             <Label Text="Producto 1:" />
             <Entry Text="{Binding Producto1, Converter={StaticResource DecimalConverter}}"  
                    Keyboard="Numeric"/>
@@ -31,6 +32,8 @@
 
             <Button Text="Calcular" Command="{Binding CalcularCommand}"/>
             <Button Text="Limpiar" Command="{Binding LimpiarCommand}"/>
+
+            </VerticalStackLayout>
         </StackLayout>
     </ScrollView>
 </ContentPage>  

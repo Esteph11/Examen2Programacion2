@@ -34,33 +34,19 @@ namespace Examen_Mvvm.ViewModels
         {
             try
             {
-                if (Subtotal < 1000)
-                {
                     Subtotal = Producto1 + Producto2 + Producto3;
-                    Descuento = 0;
+                    Descuento = CalcularDescuento(Subtotal);
                     Totalpagar = Subtotal - Descuento;
 
-                    Alerta("ADVERTENCIA", "Valor de a no debe ser cero");
-                }
-                else if (Subtotal < 5000)
+                if (Descuento == 0)
                 {
-                    Subtotal = Producto1 + Producto2 + Producto3;
-                    Descuento = Subtotal * 0.10;
-                    Totalpagar = Subtotal - Descuento;
+                    Alerta("AVISO", "Su total no aplica descuento");
                 }
-                else if (Subtotal < 10000)
-                {
-                    Subtotal = Producto1 + Producto2 + Producto3;
-                    Descuento = Subtotal * 0.20;
-                    Totalpagar = Subtotal - Descuento;
+                else
+                { 
+                if (Descuento > 0.10)
+                    Alerta("ATENCIÓN", "Su total aplica descuento");
                 }
-                else if (Subtotal < 10000)
-                {
-                    Subtotal = Producto1 + Producto2 + Producto3;
-                    Descuento = Subtotal * 0.20;
-                    Totalpagar = Subtotal - Descuento;
-                }
-
             }
             catch (Exception ex)
             {
@@ -79,5 +65,16 @@ namespace Examen_Mvvm.ViewModels
             Totalpagar = 0;
         }
 
+        private double CalcularDescuento(double totaldes)
+        {
+            if (totaldes < 1000)
+                return 0;
+            else if (totaldes < 5000)
+                return totaldes * 0.10;
+            else if (totaldes < 10000)
+                return totaldes * 0.20;
+            else
+                return totaldes * 0.30;
+        }
     }
 }

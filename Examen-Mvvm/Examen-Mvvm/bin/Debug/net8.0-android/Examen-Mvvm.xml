@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Examen-Mvvm</name>
+    </assembly>
+    <members>
+        <member name="T:Examen_Mvvm.ViewModels.ProductosViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:Examen_Mvvm.ViewModels.ProductosViewModel.Producto1">
+            <inheritdoc cref="F:Examen_Mvvm.ViewModels.ProductosViewModel.producto1"/>
+        </member>
+        <member name="P:Examen_Mvvm.ViewModels.ProductosViewModel.Producto2">
+            <inheritdoc cref="F:Examen_Mvvm.ViewModels.ProductosViewModel.producto2"/>
+        </member>
+        <member name="P:Examen_Mvvm.ViewModels.ProductosViewModel.Producto3">
+            <inheritdoc cref="F:Examen_Mvvm.ViewModels.ProductosViewModel.producto3"/>
+        </member>
+        <member name="P:Examen_Mvvm.ViewModels.ProductosViewModel.Subtotal">
+            <inheritdoc cref="F:Examen_Mvvm.ViewModels.ProductosViewModel.subtotal"/>
+        </member>
+        <member name="P:Examen_Mvvm.ViewModels.ProductosViewModel.Descuento">
+            <inheritdoc cref="F:Examen_Mvvm.ViewModels.ProductosViewModel.descuento"/>
+        </member>
+        <member name="P:Examen_Mvvm.ViewModels.ProductosViewModel.Totalpagar">
+            <inheritdoc cref="F:Examen_Mvvm.ViewModels.ProductosViewModel.totalpagar"/>
+        </member>
+        <member name="F:Examen_Mvvm.ViewModels.ProductosViewModel.calcularCommand">
+            <summary>The backing field for <see cref="P:Examen_Mvvm.ViewModels.ProductosViewModel.CalcularCommand"/>.</summary>
+        </member>
+        <member name="P:Examen_Mvvm.ViewModels.ProductosViewModel.CalcularCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:Examen_Mvvm.ViewModels.ProductosViewModel.Calcular"/>.</summary>
+        </member>
+        <member name="F:Examen_Mvvm.ViewModels.ProductosViewModel.limpiarCommand">
+            <summary>The backing field for <see cref="P:Examen_Mvvm.ViewModels.ProductosViewModel.LimpiarCommand"/>.</summary>
+        </member>
+        <member name="P:Examen_Mvvm.ViewModels.ProductosViewModel.LimpiarCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:Examen_Mvvm.ViewModels.ProductosViewModel.Limpiar"/>.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Producto1">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Producto1" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Producto2">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Producto2" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Producto3">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Producto3" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Subtotal">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Subtotal" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Descuento">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Descuento" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Totalpagar">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Totalpagar" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Producto1">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Producto1" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Producto2">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Producto2" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Producto3">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Producto3" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Subtotal">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Subtotal" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Descuento">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Descuento" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Totalpagar">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Totalpagar" generated properties.</summary>
+        </member>
+    </members>
+</doc>
