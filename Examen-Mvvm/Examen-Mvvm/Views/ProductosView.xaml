@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Examen_Mvvm.Views.ProductosView"
+             xmlns:viewModel="clr-namespace:Examen_Mvvm.ViewModels"
+             x:DataType="viewModel:ProductosViewModel"
+             Title="Productos de Despensa">
+   
+    <ScrollView>
+        <StackLayout Padding="20">
+            <Label Text="Producto 1:" />
+            <Entry Text="{Binding Producto1, Converter={StaticResource DecimalConverter}}"  
+                   Keyboard="Numeric"/>
+
+            <Label Text="Producto 2:" />
+            <Entry Text="{Binding Producto2, Converter={StaticResource DecimalConverter}}"  
+                   Keyboard="Numeric"/>
+
+            <Label Text="Producto 3:" />
+            <Entry Text="{Binding Producto3, Converter={StaticResource DecimalConverter}}"  
+                   Keyboard="Numeric"/>
+
+            <Label Text="Subtotal:" />
+            <Entry Text="{Binding Subtotal}" IsReadOnly="True"/>
+
+            <Label Text="Descuento:" />
+            <Entry Text="{Binding Descuento}" IsReadOnly="True"/>
+
+            <Label Text="Total a Pagar:" />
+            <Entry Text="{Binding Totalpagar}" IsReadOnly="True"/>
+
+            <Button Text="Calcular" Command="{Binding CalcularCommand}"/>
+            <Button Text="Limpiar" Command="{Binding LimpiarCommand}"/>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>  
