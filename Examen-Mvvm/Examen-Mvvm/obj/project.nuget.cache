@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mGviBHQhRtA=",
+  "dgSpecHash": "LgzteEDN7/g=",
   "success": true,
-  "projectFilePath": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Examen2Programacion2\\Examen-Mvvm\\Examen-Mvvm\\Examen_Mvvm.csproj",
+  "projectFilePath": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Examen2Programacion2\\Examen-Mvvm\\Examen-Mvvm\\Examen-Mvvm.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\curacao\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512",
     "C:\\Users\\curacao\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",

@@ -33472,9 +33472,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Examen2Programacion2\\Examen-Mvvm\\Examen-Mvvm\\Examen_Mvvm.csproj",
-      "projectName": "Examen_Mvvm",
-      "projectPath": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Examen2Programacion2\\Examen-Mvvm\\Examen-Mvvm\\Examen_Mvvm.csproj",
+      "projectUniqueName": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Examen2Programacion2\\Examen-Mvvm\\Examen-Mvvm\\Examen-Mvvm.csproj",
+      "projectName": "Examen-Mvvm",
+      "projectPath": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Examen2Programacion2\\Examen-Mvvm\\Examen-Mvvm\\Examen-Mvvm.csproj",
       "packagesPath": "C:\\Users\\curacao\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Examen2Programacion2\\Examen-Mvvm\\Examen-Mvvm\\obj\\",
       "projectStyle": "PackageReference",

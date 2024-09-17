@@ -19,7 +19,7 @@
     <WindowsSdkPath>
     </WindowsSdkPath>
     <LayoutDir>C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
-    <RegisteredManifestChecksum>E8C05BEC355737081DA260F99CCD5E5BC5D10222F687E4177DFBA4F80F2EBCD2</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>853E2697247E70E4C5A8B637B554428801D1A993DB7CEFFC52D5673C78D3965F</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>com.companyname.examenmvvm_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>com.companyname.examenmvvm_9zz4h110yvjzm!App</RegisteredUserModeAppID>
     <RegisteredPackageID>com.companyname.examenmvvm</RegisteredPackageID>
@@ -30,265 +30,265 @@
     <AppXManifest Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-09-17T07:39:28.562</Modified>
+      <Modified>2024-09-17T18:23:18.696</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-09-17T07:30:51.593</Modified>
+      <Modified>2024-09-17T18:23:18.217</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Examen_Mvvm.runtimeconfig.json">
-      <PackagePath>Examen_Mvvm.runtimeconfig.json</PackagePath>
-      <Modified>2024-09-17T06:31:20.318</Modified>
+    <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Examen-Mvvm.runtimeconfig.json">
+      <PackagePath>Examen-Mvvm.runtimeconfig.json</PackagePath>
+      <Modified>2024-09-17T18:23:16.744</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Examen_Mvvm.dll">
-      <PackagePath>Examen_Mvvm.dll</PackagePath>
-      <Modified>2024-09-17T07:30:48.140</Modified>
+    <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Examen-Mvvm.dll">
+      <PackagePath>Examen-Mvvm.dll</PackagePath>
+      <Modified>2024-09-17T18:23:09.248</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
-      <PackagePath>Examen_Mvvm.exe</PackagePath>
-      <Modified>2024-09-17T07:30:48.378</Modified>
+      <PackagePath>Examen-Mvvm.exe</PackagePath>
+      <Modified>2024-09-17T18:23:09.305</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
-      <Modified>2024-09-17T03:47:19.693</Modified>
+      <Modified>2024-09-17T17:40:18.737</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2024-09-17T03:49:01.769</Modified>
+      <Modified>2024-09-17T17:42:00.701</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2024-09-17T03:49:01.813</Modified>
+      <Modified>2024-09-17T17:42:00.831</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2024-09-17T03:49:01.868</Modified>
+      <Modified>2024-09-17T17:42:00.984</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2024-09-17T03:49:01.939</Modified>
+      <Modified>2024-09-17T17:42:01.098</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2024-09-17T03:49:02.207</Modified>
+      <Modified>2024-09-17T17:42:01.881</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
-      <Modified>2024-09-17T03:47:19.675</Modified>
+      <Modified>2024-09-17T17:40:18.716</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
-      <Modified>2024-09-17T03:47:19.679</Modified>
+      <Modified>2024-09-17T17:40:18.720</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2024-09-17T03:49:06.228</Modified>
+      <Modified>2024-09-17T17:42:05.880</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.205</Modified>
+      <Modified>2024-09-17T17:42:05.819</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.205</Modified>
+      <Modified>2024-09-17T17:42:05.819</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.204</Modified>
+      <Modified>2024-09-17T17:42:05.819</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.204</Modified>
+      <Modified>2024-09-17T17:42:05.818</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.187</Modified>
+      <Modified>2024-09-17T17:42:05.818</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.220</Modified>
+      <Modified>2024-09-17T17:42:05.862</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.220</Modified>
+      <Modified>2024-09-17T17:42:05.862</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.219</Modified>
+      <Modified>2024-09-17T17:42:05.857</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.220</Modified>
+      <Modified>2024-09-17T17:42:05.861</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.219</Modified>
+      <Modified>2024-09-17T17:42:05.859</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.223</Modified>
+      <Modified>2024-09-17T17:42:05.866</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.222</Modified>
+      <Modified>2024-09-17T17:42:05.866</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.221</Modified>
+      <Modified>2024-09-17T17:42:05.863</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.222</Modified>
+      <Modified>2024-09-17T17:42:05.864</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.221</Modified>
+      <Modified>2024-09-17T17:42:05.863</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.227</Modified>
+      <Modified>2024-09-17T17:42:05.879</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.227</Modified>
+      <Modified>2024-09-17T17:42:05.879</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.226</Modified>
+      <Modified>2024-09-17T17:42:05.878</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.226</Modified>
+      <Modified>2024-09-17T17:42:05.877</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.225</Modified>
+      <Modified>2024-09-17T17:42:05.875</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.225</Modified>
+      <Modified>2024-09-17T17:42:05.875</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.224</Modified>
+      <Modified>2024-09-17T17:42:05.872</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.223</Modified>
+      <Modified>2024-09-17T17:42:05.867</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.224</Modified>
+      <Modified>2024-09-17T17:42:05.872</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.223</Modified>
+      <Modified>2024-09-17T17:42:05.869</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.212</Modified>
+      <Modified>2024-09-17T17:42:05.831</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.211</Modified>
+      <Modified>2024-09-17T17:42:05.831</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.211</Modified>
+      <Modified>2024-09-17T17:42:05.830</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.211</Modified>
+      <Modified>2024-09-17T17:42:05.828</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.211</Modified>
+      <Modified>2024-09-17T17:42:05.827</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.217</Modified>
+      <Modified>2024-09-17T17:42:05.850</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.213</Modified>
+      <Modified>2024-09-17T17:42:05.845</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.213</Modified>
+      <Modified>2024-09-17T17:42:05.842</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.213</Modified>
+      <Modified>2024-09-17T17:42:05.839</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.212</Modified>
+      <Modified>2024-09-17T17:42:05.839</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.219</Modified>
+      <Modified>2024-09-17T17:42:05.855</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.218</Modified>
+      <Modified>2024-09-17T17:42:05.854</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.218</Modified>
+      <Modified>2024-09-17T17:42:05.853</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.218</Modified>
+      <Modified>2024-09-17T17:42:05.852</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.217</Modified>
+      <Modified>2024-09-17T17:42:05.851</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.210</Modified>
+      <Modified>2024-09-17T17:42:05.826</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.210</Modified>
+      <Modified>2024-09-17T17:42:05.824</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.207</Modified>
+      <Modified>2024-09-17T17:42:05.821</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.206</Modified>
+      <Modified>2024-09-17T17:42:05.820</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.206</Modified>
+      <Modified>2024-09-17T17:42:05.820</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.186</Modified>
+      <Modified>2024-09-17T17:42:05.817</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.186</Modified>
+      <Modified>2024-09-17T17:42:05.817</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.185</Modified>
+      <Modified>2024-09-17T17:42:05.816</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.185</Modified>
+      <Modified>2024-09-17T17:42:05.816</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-09-17T03:49:06.185</Modified>
+      <Modified>2024-09-17T17:42:05.815</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Examen_Mvvm.deps.json">
-      <PackagePath>Examen_Mvvm.deps.json</PackagePath>
-      <Modified>2024-09-17T07:30:51.014</Modified>
+    <AppxPackagedFile Include="C:\Users\curacao\Documents\Estudio\Project\Examen2Programacion2\Examen-Mvvm\Examen-Mvvm\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Examen-Mvvm.deps.json">
+      <PackagePath>Examen-Mvvm.deps.json</PackagePath>
+      <Modified>2024-09-17T18:23:16.067</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\curacao\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.34\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

@@ -5,7 +5,7 @@
              xmlns:viewModel="clr-namespace:Examen_Mvvm.ViewModels"
              x:DataType="viewModel:ProductosViewModel"
              Title="Productos de Despensa">
-   
+
     <ScrollView>
         <StackLayout Padding="20">
             <Label Text="Producto 1:" />

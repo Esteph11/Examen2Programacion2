@@ -60,10 +60,10 @@ namespace Examen_Mvvm.ViewModels
                     Descuento = Subtotal * 0.20;
                     Totalpagar = Subtotal - Descuento;
                 }
-        
+
             }
             catch (Exception ex)
-            { 
+            {
                 Console.WriteLine($"Error: {ex.Message}");
             }
         }

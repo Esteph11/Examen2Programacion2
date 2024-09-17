@@ -10,4 +10,5 @@ namespace Examen_Mvvm.Model
         public double Producto2 { get; set; }
         public double Producto3 { get; set; }
     }
-}  
+}
+
